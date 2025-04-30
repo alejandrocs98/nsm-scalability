@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore large files
+logs/
+models/
+parameters/
+plots/
+results/
